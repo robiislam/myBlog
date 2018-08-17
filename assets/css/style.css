@@ -1,0 +1,27 @@
+* a {
+	text-decoration: none;
+}
+.navbar{
+	padding: 0px !important;
+	
+}
+.nav-link{
+	color: #fff !important;
+	/*font-weight: bold;*/
+}
+.back{
+	background: #023957;
+	padding: 5px 15px;
+	margin-top: 10px;
+}
+.back-2{
+	background: #ddd;
+	padding: 3px 10px;
+	text-align: right;
+	border-bottom: 2px solid #023957 ;
+	margin-bottom: 30px;
+}
+.social{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
